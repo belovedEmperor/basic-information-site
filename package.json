@@ -1,0 +1,18 @@
+{
+  "name": "basic-information-site",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/belovedEmperor/basic-information-site#readme",
+  "bugs": {
+    "url": "https://github.com/belovedEmperor/basic-information-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belovedEmperor/basic-information-site.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {}
+}
