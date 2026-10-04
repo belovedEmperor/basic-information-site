@@ -14,5 +14,8 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
